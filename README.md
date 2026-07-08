@@ -4,6 +4,8 @@ A responsive, single-page marketing site for a fictional family medical clinic â
 
 **Live site:** https://jameschs881.github.io/willowbrook-clinic-site/
 
+![Screenshot of the Willowbrook Family Clinic site](assets/screenshot.png)
+
 ## Features
 
 - Sticky, responsive navbar with a mobile hamburger menu
